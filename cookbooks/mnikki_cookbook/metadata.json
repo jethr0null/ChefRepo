@@ -1,0 +1,30 @@
+{
+  "conflicting": {
+  },
+  "groupings": {
+  },
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "recommendations": {
+  },
+  "maintainer": "YOUR_COMPANY_NAME",
+  "name": "mnikki_cookbook",
+  "dependencies": {
+  },
+  "attributes": {
+  },
+  "providing": {
+  },
+  "maintainer_email": "YOUR_EMAIL",
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "version": "0.0.1",
+  "replacing": {
+  },
+  "recipes": {
+    "mnikki_cookbook::default": "Prints hello world output"
+  },
+  "license": "All rights reserved",
+  "description": "Installs/Configures mnikki_cookbook"
+}
